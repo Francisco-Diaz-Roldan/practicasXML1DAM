@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<centro>
+    <nombre>Cesur</nombre>
+    <localidad>Málaga</localidad>
+    <alumnos>
+        <alumno dni="123456789A">
+            <nombre>Francisco</nombre>
+            <apellidos>Díaz Roldán</apellidos>
+            <telefono>555666777</telefono>
+            <matricula moneda="€">
+                <subtotal>3000</subtotal>
+                <descuento>25%</descuento>
+                <total>2750</total>
+            </matricula>
+            <email>
+                <email>correoelectronico@gmail.com</email>
+                <email>asasasa</email>
+                <email></email>
+            </email>
+        </alumno>
+        <alumno>
+            <nombre>Francisco</nombre>
+            <apellidos>Díaz Roldán</apellidos>
+            <telefono>555666777</telefono>
+            <matricula moneda="€">
+                <subtotal>3000</subtotal>
+                <descuento>25%</descuento>
+                <total>2750</total>
+            </matricula>
+            <email>
+                <email>correoelectronico@gmail.com</email>
+                <email>asasasa</email>
+                <email></email>
+            </email>
+        </alumno>
+    </alumnos>
+</centro>
+
+
+

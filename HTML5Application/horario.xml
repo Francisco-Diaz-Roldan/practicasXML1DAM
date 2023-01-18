@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<horario>
+    <ciclo>DAM</ciclo>
+    <curso>Primero</curso>
+    <aula>Taler de administración</aula>
+    <semana>
+        <dia nombre="lunes">
+            <clase hora="08:00">Bases de datos</clase>
+            <clase hora="09:00">Sistemas </clase>
+            <clase hora="10:00">Programación</clase>
+            <clase hora="10:00">FOL</clase>
+            <clase hora="10:00">Marcas</clase>
+            <clase hora="13:30">Entornos</clase>
+        </dia>
+        
+        <dia nombre="martes">
+            <clase hora="08:00">Bases de datos</clase>
+            <clase hora="09:00">FOL </clase>
+            <clase hora="10:00">FOL</clase>
+            <clase hora="10:00">Sistemas</clase>
+            <clase hora="10:00">Sistemas</clase>
+            <clase hora="13:30">Sistemas</clase>
+        </dia>
+        
+        <dia nombre="miércoles">
+            <clase hora="08:00">Programación</clase>
+            <clase hora="09:00">Programación </clase>
+            <clase hora="10:00">Marcas</clase>
+            <clase hora="10:00">Marcas</clase>
+            <clase hora="10:00">Sistemas</clase>
+            <clase hora="13:30">Sistemas</clase>
+        </dia>
+        
+        <dia nombre="jueves">
+            <clase hora="08:00">Programación</clase>
+            <clase hora="09:00">Programación </clase>
+            <clase hora="10:00">Programación</clase>
+            <clase hora="10:00">Bases de datos</clase>
+            <clase hora="10:00">Entornos</clase>
+            <clase hora="13:30">Entornos</clase>
+        </dia>
+        
+        <dia nombre="viernes">
+            <clase hora="08:00">Programación</clase>
+            <clase hora="09:00">Programación </clase>
+            <clase hora="10:00">Marcas</clase>
+            <clase hora="10:00">Bases de datos</clase>
+            <clase hora="10:00">Bases de datos</clase>
+            <clase hora="13:30">Bases de datos</clase>
+        </dia>
+    </semana>
+
+    <modulos>
+        <modulo nombre="LM">
+            <hora dia="lunes">09:00</hora>
+            <hora dia="miércoles">10:0</hora>
+            <hora dia="miércoles">11:30</hora>
+        </modulo>
+        
+        <modulo nombre="PROG">
+            <hora dia="lunes">10:00</hora>
+            <hora dia="miércoles">08:00</hora>
+            <hora dia="miércoles">09:00</hora>
+            <hora dia="jueves">08:00</hora>
+            <hora dia="jueves">09:00</hora>
+            <hora dia="jueves">10:00</hora>
+            <hora dia="viernes">08:00</hora>
+            <hora dia="viernes">09:00</hora>
+        </modulo>
+
+    </modulos>
+
+</horario>
+
