@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<reserva fecha="23/01/2023" origen="web">
+    <!--<titulo>RESERVAS PARA GRUPOS SERVICIO GRATUITO</titulo>
+    <subtitulo>Obtén las mejores condiciones de precio, un trato directo y disfruta sin peocuparte de nada</subtitulo>-->
+    <!--Lo de arriba no es información porque NO ES INFORMACIÓN VARIABLE y se repite-->
+
+    <nombre>Nombre</nombre>
+    <telefono>Teléfono</telefono>
+    <email>E-mail</email>
+    <fecha>Día de reserva:</fecha>
+    <personas>4</personas>
+    <presupuesto>Presupuesto/Persona</presupuesto>
+    <comentarios></comentarios>
+        
+</reserva>
+
